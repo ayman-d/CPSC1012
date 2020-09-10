@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\bin\Debug\netcoreapp2.1\2020-01-30_Formatting.deps.json
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\bin\Debug\netcoreapp2.1\2020-01-30_Formatting.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\bin\Debug\netcoreapp2.1\2020-01-30_Formatting.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\bin\Debug\netcoreapp2.1\2020-01-30_Formatting.dll
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\bin\Debug\netcoreapp2.1\2020-01-30_Formatting.pdb
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\obj\Debug\netcoreapp2.1\2020-01-30_Formatting.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\obj\Debug\netcoreapp2.1\2020-01-30_Formatting.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\obj\Debug\netcoreapp2.1\2020-01-30_Formatting.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\obj\Debug\netcoreapp2.1\2020-01-30_Formatting.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\obj\Debug\netcoreapp2.1\2020-01-30_Formatting.dll
+C:\Users\aaldali2\Documents\2020-01-30_Formatting\2020-01-30_Formatting\obj\Debug\netcoreapp2.1\2020-01-30_Formatting.pdb

@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\bin\Debug\netcoreapp2.1\2020-01-31_ForLoops.deps.json
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\bin\Debug\netcoreapp2.1\2020-01-31_ForLoops.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\bin\Debug\netcoreapp2.1\2020-01-31_ForLoops.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\bin\Debug\netcoreapp2.1\2020-01-31_ForLoops.dll
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\bin\Debug\netcoreapp2.1\2020-01-31_ForLoops.pdb
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\obj\Debug\netcoreapp2.1\2020-01-31_ForLoops.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\obj\Debug\netcoreapp2.1\2020-01-31_ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\obj\Debug\netcoreapp2.1\2020-01-31_ForLoops.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\obj\Debug\netcoreapp2.1\2020-01-31_ForLoops.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\obj\Debug\netcoreapp2.1\2020-01-31_ForLoops.dll
+C:\Users\aaldali2\Documents\2020-01-31_ForLoops\obj\Debug\netcoreapp2.1\2020-01-31_ForLoops.pdb

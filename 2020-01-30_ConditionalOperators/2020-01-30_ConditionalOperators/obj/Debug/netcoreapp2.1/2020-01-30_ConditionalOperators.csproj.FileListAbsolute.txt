@@ -1,0 +1,10 @@
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\bin\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.deps.json
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\bin\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\bin\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\bin\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.dll
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\bin\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.pdb
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\obj\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\obj\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\obj\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\obj\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.dll
+C:\Users\aaldali2\Documents\2020-01-30_ConditionalOperators\2020-01-30_ConditionalOperators\obj\Debug\netcoreapp2.1\2020-01-30_ConditionalOperators.pdb

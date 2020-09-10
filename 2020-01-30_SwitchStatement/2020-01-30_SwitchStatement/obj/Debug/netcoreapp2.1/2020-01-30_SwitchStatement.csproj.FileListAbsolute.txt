@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\bin\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.deps.json
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\bin\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\bin\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\bin\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.dll
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\bin\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.pdb
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\obj\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\obj\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\obj\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\obj\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\obj\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.dll
+C:\Users\aaldali2\Documents\2020-01-30_SwitchStatement\2020-01-30_SwitchStatement\obj\Debug\netcoreapp2.1\2020-01-30_SwitchStatement.pdb

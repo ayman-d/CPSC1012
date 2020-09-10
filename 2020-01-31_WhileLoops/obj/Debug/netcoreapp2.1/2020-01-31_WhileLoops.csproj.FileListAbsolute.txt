@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\bin\Debug\netcoreapp2.1\2020-01-31_WhileLoops.deps.json
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\bin\Debug\netcoreapp2.1\2020-01-31_WhileLoops.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\bin\Debug\netcoreapp2.1\2020-01-31_WhileLoops.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\bin\Debug\netcoreapp2.1\2020-01-31_WhileLoops.dll
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\bin\Debug\netcoreapp2.1\2020-01-31_WhileLoops.pdb
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\obj\Debug\netcoreapp2.1\2020-01-31_WhileLoops.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\obj\Debug\netcoreapp2.1\2020-01-31_WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\obj\Debug\netcoreapp2.1\2020-01-31_WhileLoops.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\obj\Debug\netcoreapp2.1\2020-01-31_WhileLoops.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\obj\Debug\netcoreapp2.1\2020-01-31_WhileLoops.dll
+C:\Users\aaldali2\Documents\2020-01-31_WhileLoops\obj\Debug\netcoreapp2.1\2020-01-31_WhileLoops.pdb
