@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\bin\Debug\netcoreapp2.1\2020-01-10_Math.deps.json
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\bin\Debug\netcoreapp2.1\2020-01-10_Math.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\bin\Debug\netcoreapp2.1\2020-01-10_Math.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\bin\Debug\netcoreapp2.1\2020-01-10_Math.dll
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\bin\Debug\netcoreapp2.1\2020-01-10_Math.pdb
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\obj\Debug\netcoreapp2.1\2020-01-10_Math.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\obj\Debug\netcoreapp2.1\2020-01-10_Math.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\obj\Debug\netcoreapp2.1\2020-01-10_Math.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\obj\Debug\netcoreapp2.1\2020-01-10_Math.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\obj\Debug\netcoreapp2.1\2020-01-10_Math.dll
+C:\Users\aaldali2\Documents\2020-01-10_Math\2020-01-10_Math\obj\Debug\netcoreapp2.1\2020-01-10_Math.pdb
