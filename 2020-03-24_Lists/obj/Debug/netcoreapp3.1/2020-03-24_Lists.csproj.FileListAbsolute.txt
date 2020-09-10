@@ -1,0 +1,11 @@
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\bin\Debug\netcoreapp3.1\2020-03-24_Lists.exe
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\bin\Debug\netcoreapp3.1\2020-03-24_Lists.deps.json
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\bin\Debug\netcoreapp3.1\2020-03-24_Lists.runtimeconfig.json
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\bin\Debug\netcoreapp3.1\2020-03-24_Lists.runtimeconfig.dev.json
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\bin\Debug\netcoreapp3.1\2020-03-24_Lists.dll
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\bin\Debug\netcoreapp3.1\2020-03-24_Lists.pdb
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\obj\Debug\netcoreapp3.1\2020-03-24_Lists.csprojAssemblyReference.cache
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\obj\Debug\netcoreapp3.1\2020-03-24_Lists.AssemblyInfoInputs.cache
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\obj\Debug\netcoreapp3.1\2020-03-24_Lists.AssemblyInfo.cs
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\obj\Debug\netcoreapp3.1\2020-03-24_Lists.dll
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-24_Lists\obj\Debug\netcoreapp3.1\2020-03-24_Lists.pdb

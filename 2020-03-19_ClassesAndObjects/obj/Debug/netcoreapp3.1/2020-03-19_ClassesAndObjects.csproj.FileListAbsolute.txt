@@ -1,0 +1,11 @@
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\bin\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.exe
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\bin\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.deps.json
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\bin\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.runtimeconfig.json
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\bin\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\bin\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.dll
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\bin\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.pdb
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\obj\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\obj\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\obj\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.AssemblyInfo.cs
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\obj\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.dll
+C:\Users\Ayman\Documents\2020-03-19_ClassesAndObjects\obj\Debug\netcoreapp3.1\2020-03-19_ClassesAndObjects.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\bin\Debug\netcoreapp3.1\2020-03-19_VideoGame.exe
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\bin\Debug\netcoreapp3.1\2020-03-19_VideoGame.deps.json
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\bin\Debug\netcoreapp3.1\2020-03-19_VideoGame.runtimeconfig.json
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\bin\Debug\netcoreapp3.1\2020-03-19_VideoGame.runtimeconfig.dev.json
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\bin\Debug\netcoreapp3.1\2020-03-19_VideoGame.dll
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\bin\Debug\netcoreapp3.1\2020-03-19_VideoGame.pdb
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\obj\Debug\netcoreapp3.1\2020-03-19_VideoGame.csprojAssemblyReference.cache
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\obj\Debug\netcoreapp3.1\2020-03-19_VideoGame.AssemblyInfoInputs.cache
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\obj\Debug\netcoreapp3.1\2020-03-19_VideoGame.AssemblyInfo.cs
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\obj\Debug\netcoreapp3.1\2020-03-19_VideoGame.dll
+C:\Users\Ayman\Desktop\NAIT\CPSC1012\2020-03-19_VideoGame\obj\Debug\netcoreapp3.1\2020-03-19_VideoGame.pdb
