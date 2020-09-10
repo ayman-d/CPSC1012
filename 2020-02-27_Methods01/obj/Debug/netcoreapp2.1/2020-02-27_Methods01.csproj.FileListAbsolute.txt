@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\bin\Debug\netcoreapp2.1\2020-02-27_Methods01.deps.json
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\bin\Debug\netcoreapp2.1\2020-02-27_Methods01.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\bin\Debug\netcoreapp2.1\2020-02-27_Methods01.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\bin\Debug\netcoreapp2.1\2020-02-27_Methods01.dll
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\bin\Debug\netcoreapp2.1\2020-02-27_Methods01.pdb
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\obj\Debug\netcoreapp2.1\2020-02-27_Methods01.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\obj\Debug\netcoreapp2.1\2020-02-27_Methods01.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\obj\Debug\netcoreapp2.1\2020-02-27_Methods01.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\obj\Debug\netcoreapp2.1\2020-02-27_Methods01.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\obj\Debug\netcoreapp2.1\2020-02-27_Methods01.dll
+C:\Users\aaldali2\Documents\2020-02-27_Methods01\obj\Debug\netcoreapp2.1\2020-02-27_Methods01.pdb

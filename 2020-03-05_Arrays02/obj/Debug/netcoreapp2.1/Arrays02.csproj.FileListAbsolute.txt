@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\bin\Debug\netcoreapp2.1\Arrays02.deps.json
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\bin\Debug\netcoreapp2.1\Arrays02.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\bin\Debug\netcoreapp2.1\Arrays02.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\bin\Debug\netcoreapp2.1\Arrays02.dll
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\bin\Debug\netcoreapp2.1\Arrays02.pdb
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\obj\Debug\netcoreapp2.1\Arrays02.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\obj\Debug\netcoreapp2.1\Arrays02.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\obj\Debug\netcoreapp2.1\Arrays02.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\obj\Debug\netcoreapp2.1\Arrays02.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\obj\Debug\netcoreapp2.1\Arrays02.dll
+C:\Users\aaldali2\Documents\2020-03-05_Arrays02\obj\Debug\netcoreapp2.1\Arrays02.pdb
