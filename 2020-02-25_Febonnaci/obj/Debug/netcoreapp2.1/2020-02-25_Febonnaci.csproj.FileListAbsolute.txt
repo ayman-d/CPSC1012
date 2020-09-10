@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\bin\Debug\netcoreapp2.1\2020-02-25_Febonnaci.deps.json
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\bin\Debug\netcoreapp2.1\2020-02-25_Febonnaci.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\bin\Debug\netcoreapp2.1\2020-02-25_Febonnaci.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\bin\Debug\netcoreapp2.1\2020-02-25_Febonnaci.dll
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\bin\Debug\netcoreapp2.1\2020-02-25_Febonnaci.pdb
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\obj\Debug\netcoreapp2.1\2020-02-25_Febonnaci.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\obj\Debug\netcoreapp2.1\2020-02-25_Febonnaci.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\obj\Debug\netcoreapp2.1\2020-02-25_Febonnaci.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\obj\Debug\netcoreapp2.1\2020-02-25_Febonnaci.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\obj\Debug\netcoreapp2.1\2020-02-25_Febonnaci.dll
+C:\Users\aaldali2\Documents\2020-02-25_Febonnaci\obj\Debug\netcoreapp2.1\2020-02-25_Febonnaci.pdb

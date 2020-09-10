@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-02-13_Marks\bin\Debug\netcoreapp2.1\2020-02-13_Marks.deps.json
+C:\Users\aaldali2\Documents\2020-02-13_Marks\bin\Debug\netcoreapp2.1\2020-02-13_Marks.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-02-13_Marks\bin\Debug\netcoreapp2.1\2020-02-13_Marks.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-02-13_Marks\bin\Debug\netcoreapp2.1\2020-02-13_Marks.dll
+C:\Users\aaldali2\Documents\2020-02-13_Marks\bin\Debug\netcoreapp2.1\2020-02-13_Marks.pdb
+C:\Users\aaldali2\Documents\2020-02-13_Marks\obj\Debug\netcoreapp2.1\2020-02-13_Marks.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-02-13_Marks\obj\Debug\netcoreapp2.1\2020-02-13_Marks.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-02-13_Marks\obj\Debug\netcoreapp2.1\2020-02-13_Marks.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-02-13_Marks\obj\Debug\netcoreapp2.1\2020-02-13_Marks.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-02-13_Marks\obj\Debug\netcoreapp2.1\2020-02-13_Marks.dll
+C:\Users\aaldali2\Documents\2020-02-13_Marks\obj\Debug\netcoreapp2.1\2020-02-13_Marks.pdb

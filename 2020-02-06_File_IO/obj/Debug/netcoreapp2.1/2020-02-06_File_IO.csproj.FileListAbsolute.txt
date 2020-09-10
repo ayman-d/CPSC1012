@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\bin\Debug\netcoreapp2.1\2020-02-06_File_IO.deps.json
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\bin\Debug\netcoreapp2.1\2020-02-06_File_IO.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\bin\Debug\netcoreapp2.1\2020-02-06_File_IO.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\bin\Debug\netcoreapp2.1\2020-02-06_File_IO.dll
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\bin\Debug\netcoreapp2.1\2020-02-06_File_IO.pdb
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\obj\Debug\netcoreapp2.1\2020-02-06_File_IO.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\obj\Debug\netcoreapp2.1\2020-02-06_File_IO.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\obj\Debug\netcoreapp2.1\2020-02-06_File_IO.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\obj\Debug\netcoreapp2.1\2020-02-06_File_IO.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\obj\Debug\netcoreapp2.1\2020-02-06_File_IO.dll
+C:\Users\aaldali2\Documents\2020-02-06_File_IO\obj\Debug\netcoreapp2.1\2020-02-06_File_IO.pdb
