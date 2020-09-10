@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\bin\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.deps.json
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\bin\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\bin\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\bin\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.dll
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\bin\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.pdb
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\obj\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.csprojAssemblyReference.cache
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\obj\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\obj\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\obj\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\obj\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.dll
+C:\Users\aaldali2\Documents\2020-01-23_LoanQualifier\obj\Debug\netcoreapp2.1\2020-01-23_LoanQualifier.pdb

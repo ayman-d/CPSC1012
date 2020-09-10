@@ -1,0 +1,11 @@
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\bin\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.deps.json
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\bin\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.runtimeconfig.json
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\bin\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.runtimeconfig.dev.json
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\bin\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.dll
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\bin\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.pdb
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\obj\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.csproj.CoreCompileInputs.cache
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\obj\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.AssemblyInfoInputs.cache
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\obj\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.AssemblyInfo.cs
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\obj\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.dll
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\obj\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.pdb
+C:\Users\aaldali2\Documents\2020-01-21_DecisionStructure02\obj\Debug\netcoreapp2.1\2020-01-21_DecisionStructure02.csprojAssemblyReference.cache
